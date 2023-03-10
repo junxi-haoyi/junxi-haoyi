@@ -19,6 +19,6 @@
 languages:<br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/210px-ISO_C%2B%2B_Logo.svg.png" width="50"/>
 <img src="https://i1.daumcdn.net/thumb/C230x300/?fname=https://blog.kakaocdn.net/dn/cz4aCe/btqSKNBwZgO/9sjaST39PTK1esTSKs7wdK/img.png" width="50"/>
-<img src="https://www.clipartmax.com/png/small/420-4204878_python-logo-python-svg-logo.png" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png" width="50"/>
 
-(https://www.clipartmax.com/png/small/420-4204878_python-logo-python-svg-logo.png)
+
