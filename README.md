@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**junxi-haoyi/junxi-haoyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# 你好，这里是豪杰
 
 - 🔭 我目前在河南省学习和工作
 - 🌱 目前在学习嵌入式和深度学习
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
