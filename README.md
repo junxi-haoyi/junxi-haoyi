@@ -1,4 +1,4 @@
-# 你好，这里是豪杰 <img src="https://img.icons8.com/color-glass/512/walter-white.png" width="100"/>
+# 你好，这里是豪杰<a href="123.60.60.249"> <img src="https://img.icons8.com/color-glass/512/walter-white.png" width="100"/></a>
 
 <a href="https://github.com/junxi-haoyi"><img align="right" src="https://github-readme-stats.vercel.app/api?username=junxi-haoyi&show_icons=true&theme=radical&bg_color=30,f07c82,ec9bad,e9d7df"/></a><br>
 嵌入式AI工程师（目标）
