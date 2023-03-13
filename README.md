@@ -2,14 +2,14 @@
 
 <a href="https://github.com/junxi-haoyi"><img align="right" src="https://github-readme-stats.vercel.app/api?username=junxi-haoyi&show_icons=true&theme=radical&bg_color=30,f07c82,ec9bad,e9d7df"/></a><br>
 嵌入式AI工程师（目标）
-- 🔭 我目前在河南省学习和工作
-- 🌱 目前在学习嵌入式和深度学习
+- 🔭 目前在河南省学习和工作
+- 🌱 目前在学嵌入式和深度学习
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 QQ:2938312306
+- 😄 Pronouns: 
+- ⚡ Fun fact: elden ring ,seikro shadow die twice
 
 <div id="header" align="left">
   <img src="https://media1.giphy.com/media/JwqE2DXKseruUMggXP/giphy.gif" width="100"/>
@@ -17,7 +17,7 @@
   <img src="https://media1.giphy.com/media/NKCNsmc6gjEZ8WJfYl/giphy.gif?cid=ecf05e47yufqhpv7o6wxohacha42vhmxg0udiqd0lq0xgaxz&rid=giphy.gif&ct=s" width="100"/>
 </div>
 
-languages:<br>
+languages and tools:<br>
 <code><img src="https://aniya.oss-cn-shanghai.aliyuncs.com/c%2B%2B.png" width="50"/></code>
 <code><img src="https://aniya.oss-cn-shanghai.aliyuncs.com/c.png" width="50"/></code>
 <code><img src="https://aniya.oss-cn-shanghai.aliyuncs.com/python.png" width="50"/><br></code>
