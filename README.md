@@ -20,9 +20,10 @@ languages and tools:<br>
 <code><img src="https://aniya.oss-cn-shanghai.aliyuncs.com/python.png" width="50"/><br></code>
 <code><img src="https://aniya.oss-cn-shanghai.aliyuncs.com/code.png" width="50"/><br></code>
 <code><img src="https://aniya.oss-cn-shanghai.aliyuncs.com/keil.png" width="50"/><br></code>
-
-
-
+<code><img src="https://aniya.oss-cn-shanghai.aliyuncs.com/jupyter.png" width="50"/><br></code>
+# repositories building
+- <a href="https://github.com/junxi-haoyi/Deep_Learning">Deep Learning notebook</a> : note book from Deep Learning from Scratch
+- <a href="https://123.60.60.249">Deep Learning notebook</a> 
 
 
 
