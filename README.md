@@ -23,7 +23,7 @@ languages and tools:<br>
 <code><img src="https://aniya.oss-cn-shanghai.aliyuncs.com/jupyter.png" width="50"/><br></code>
 # repositories building
 - <a href="https://github.com/junxi-haoyi/Deep_Learning">Deep Learning notebook</a> : note book from Deep Learning from Scratch
-- <a href="https://github.com/junxi-haoyi/GD32470_Balance_Car">DL Balance Car with jetson nano</a>
+- <a href="https://github.com/junxi-haoyi/GD32470_Balance_Car">DL Balance Car with jetson nano</a> : use neural network to calculate PID value
 
 
 
