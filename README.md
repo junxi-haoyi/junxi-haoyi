@@ -3,10 +3,10 @@
 <a href="https://github.com/junxi-haoyi"><img align="right" src="https://github-readme-stats.vercel.app/api?username=junxi-haoyi&show_icons=true&theme=radical&bg_color=30,f07c82,ec9bad,e9d7df"/></a><br>
 Embedded AI Engineer
 - 🌱 Embedded and Deep Learing
-- 🤔 share some cool project
-- 💬 Ask me about ...
-- 📫 QQ:2938312306
-- ⚡ Fun fact: elden ring ,seikro shadow die twice
+- 🤔 share some cool projects
+- 💬 Ask me about :Embedded 
+- 📫 you can touch with QQ:2938312306
+- ⚡ Fun about game: elden ring ,seikro shadow die twice
 
 <div id="header" align="left">
   <img src="https://media1.giphy.com/media/JwqE2DXKseruUMggXP/giphy.gif" width="100"/>
