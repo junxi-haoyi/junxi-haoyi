@@ -25,5 +25,5 @@ languages and tools:<br>
 
 
 # my daughter Aniya
-<img src="https://aniya.oss-cn-shanghai.aliyuncs.com/R.jpeg" width="600"/>
+<img src="https://aniya.oss-cn-shanghai.aliyuncs.com/Aniya.jpg" width="600"/>
 
