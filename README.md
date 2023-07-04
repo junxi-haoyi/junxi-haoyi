@@ -16,7 +16,6 @@ Embedded AI Engineer
 
 languages and tools:<br>
 <code><img src="https://aniya.oss-cn-shanghai.aliyuncs.com/c%2B%2B.png" width="50"/></code>
-<code><img src="https://aniya.oss-cn-shanghai.aliyuncs.com/c.png" width="50"/></code>
 <code><img src="https://aniya.oss-cn-shanghai.aliyuncs.com/python.png" width="50"/><br></code>
 <code><img src="https://aniya.oss-cn-shanghai.aliyuncs.com/code.png" width="50"/><br></code>
 <code><img src="https://aniya.oss-cn-shanghai.aliyuncs.com/keil.png" width="50"/><br></code>
